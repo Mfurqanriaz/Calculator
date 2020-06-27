@@ -1,0 +1,37 @@
+
+.main{
+    /* border: 3px solid black; */
+    width: 420px;
+    height: auto;
+    margin: 0 auto;
+}
+.result{
+    width: 95%;
+    height: 70px;
+    background-color: lightgrey;
+    color: black;
+}
+
+.clearbtn{
+    width: 96%;
+    height: 50px;
+    background-color:darkcyan;
+    color: rgb(0, 0, 0);
+    margin-top: 1px;
+}
+
+.btn{
+    width: 23%;
+    height: 50px;
+    margin: 1px;
+    margin-top: 1px;
+    background-color:cornflowerblue; 
+}
+
+.halfbtn{
+    width: 48%;
+    height: 50px;
+    background-color:cornflowerblue; 
+    margin-top: 1px;
+}
+
